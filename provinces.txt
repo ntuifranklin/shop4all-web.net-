@@ -1,0 +1,11 @@
+1#Est 
+2#Centre 
+3#Nord-Ouest 
+4#Sud 
+5#Sud-Ouest 
+6#Ouest 
+7#Adamaoua 
+8#Littoral 
+9#Nord 
+10#Extreme-Nord 
+
