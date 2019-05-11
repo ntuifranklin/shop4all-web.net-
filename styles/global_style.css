@@ -1,0 +1,114 @@
+html, body
+{
+  /* background-image:url('img_tree.png'); */
+  background-image:url('../images/gradient2.png'); 
+  /*background-color:#b0c4de;  */ 
+  background-repeat:repeat-x; 
+  font-size:1em;
+  font-family:Arial, Verdana,  Helvetica, sans-serif;
+  
+}
+
+a
+{
+  text-decoration:none;
+}
+
+p
+{
+  /* text in a paragraph*/
+  font-size:1em;
+  
+}
+
+
+.tail
+{
+  font-size:0.8em;
+  color: #808080;
+}
+
+.petit
+{
+
+width:450px; 
+color:blue;
+background-color : #B0E0E6;
+}
+
+
+.utilisat
+{
+width:450px; 
+color:blue;
+background-color : #B0E0E6;
+}
+
+
+.grand
+{
+width:800px; 
+color:blue;
+background-color : #B0E0E6;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+}
+
+/* les lignes impaires 1,3,5,7,... */
+table tr.odd ,td.odd,
+.odd {
+    background:  #b0c4de;
+    height:50px;	
+}
+
+/* les lignes paires 2,4,6,8,... */
+table tr.even ,td.even,
+.even {
+    background: #b0c4de;
+    height:50px;	
+}
+
+/* Les choses sur les quelles ont survole */
+.odd:hover,
+.even:hover,
+.hover {
+    background:  #B0E0E6;
+    color: #000000;
+}
+
+/* Les lignes sur les quelles ont survole */
+table tr.odd:hover ,
+table tr.even:hover ,
+table tr.hover  {
+    background:    #B0E0E6;
+    color:   #000000;
+}
+
+.logo{
+background-image:url('../images/logo2.gif');
+}
+
+ .modifobjet{
+background-image:url('../images/modifier.png');
+
+}
+
+ .supprobjet{
+background-image:url('../images/supprimer.png');
+
+}
+
+.rond{
+background-color:#B0E0E6;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+font-size:1em;
+font-family:Arial, Verdana,  Helvetica, sans-serif;
+}
+
+
+.bouton{
+height:35px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+}

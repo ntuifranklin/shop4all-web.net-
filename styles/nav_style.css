@@ -1,0 +1,52 @@
+.navi
+{
+/*apply on tr tag*/
+background-color: #B0E0E6 ;
+text-align : center ;
+font-size:10px;
+-moz-border-radius:15px;
+-webkit-border-radius:15px;
+}
+
+.menu
+{
+
+  background-color: #b0c4de ;
+
+}
+
+
+a.topnav:link
+{
+  background-color:#b0c4de ;
+  
+}
+
+a.topnav:visited
+{
+  background-color:#b0c4de ;
+
+}
+
+a.topnav:hover
+{
+  background-color:#008080;
+  
+} 
+
+.petitmenu{
+background-color: #B0E0E6 ;
+text-align : center ;
+font-size:12px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+}
+
+
+.titrerubrique{
+background-color: #b0c4de ;
+text-align : center ;
+font-size:12px;
+-moz-border-radius:10px;
+-webkit-border-radius:10px;
+}
